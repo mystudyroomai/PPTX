@@ -1,0 +1,6 @@
+{
+  "name": "PreservaPPT — Processamento e Preservação de PowerPoint",
+  "description": "Aplicação profissional para importar, analisar, processar de forma não destrutiva, verificar e exportar apresentações Microsoft PowerPoint (.pptx) com preservação integral de fontes, hiperligações, animações, multimédia e estrutura OOXML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
